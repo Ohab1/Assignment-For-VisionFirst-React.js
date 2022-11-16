@@ -1,0 +1,158 @@
+{
+  "RegisterUsers": [
+    {
+      "name": "Md Ohab",
+      "email": "ohab@gmail.com",
+      "mobile": "8544255624",
+      "username": "Ohab",
+      "password": "Ohab@123",
+      "role": "IT_ADMIN",
+      "id": 1
+    },
+    {
+      "name": "Riaz",
+      "email": "Riaz@gmail.com",
+      "mobile": "1234567890",
+      "username": "98768976687",
+      "password": "Riaz@123",
+      "role": "IT_USER_NORMAL",
+      "id": 2
+    },
+    {
+      "name": "md ohab",
+      "email": "ohab@gmail.com",
+      "mobile": "0897654328786",
+      "username": "Md Ohab",
+      "password": "Md@123456",
+      "role": "IT_ADMIN",
+      "id": 3
+    },
+    {
+      "name": "user",
+      "email": "bbkb@hui.com",
+      "mobile": "1234567890",
+      "username": "user",
+      "password": "User@123",
+      "role": "IT_USER_NORMAL",
+      "id": 4
+    },
+    {
+      "name": "Saddam",
+      "email": "saddam@gmail.com",
+      "mobile": "7906273116",
+      "username": "Saddam",
+      "password": "Saddam@123",
+      "role": "IT_ADMIN",
+      "id": 5
+    }
+  ],
+  "CompanyDetails": [
+    {
+      "CompanyName": "Tata Consultancy Services",
+      "CreatedBy": "ohab",
+      "CompanyAddress": "Jamshedpur",
+      "Role": "IT_ADMIN",
+      "Status": "APPROVED",
+      "id": 1
+    },
+    {
+      "CompanyName": "Infosys Pvt Ltd",
+      "CreatedBy": "ohab",
+      "CompanyAddress": "Bangalore",
+      "Role": "IT_ADMIN",
+      "Status": "APPROVED",
+      "id": 2
+    },
+    {
+      "CompanyName": "HCL Technologies",
+      "CreatedBy": "ohab",
+      "CompanyAddress": "Hyderabad",
+      "Role": "IT_ADMIN",
+      "Status": "APPROVED",
+      "id": 3
+    },
+    {
+      "CompanyName": "Tech Mahindra",
+      "CreatedBy": "riaz",
+      "CompanyAddress": "Vishakhapatnam",
+      "Role": "IT_USER_NORMAL",
+      "Status": "UNAPPROVED",
+      "id": 4
+    },
+    {
+      "CompanyName": "Vision First",
+      "CompanyAddress": "Gurgao",
+      "CreatedBy": "Md Ohab",
+      "Role": "IT_ADMIN",
+      "Status": "APPROVED",
+      "id": 8
+    },
+    {
+      "CompanyName": "Xebia ",
+      "CompanyAddress": "Banglore",
+      "CreatedBy": "Md Ohab",
+      "Role": "IT_ADMIN",
+      "Status": "APPROVED",
+      "id": 9
+    },
+    {
+      "CompanyName": "New Comapny",
+      "CompanyAddress": "Hyderabad",
+      "CreatedBy": "Md Ohab",
+      "Role": "IT_ADMIN",
+      "Status": "APPROVED",
+      "id": 10
+    },
+    {
+      "CompanyName": "Tech Mahindra",
+      "CreatedBy": "riaz",
+      "CompanyAddress": "Vishakhapatnam",
+      "Role": "IT_USER_NORMAL",
+      "Status": "APPROVED",
+      "id": 11
+    },
+    {
+      "CompanyName": "Tech Mahindra",
+      "CreatedBy": "riaz",
+      "CompanyAddress": "Vishakhapatnam",
+      "Role": "IT_USER_NORMAL",
+      "Status": "APPROVED",
+      "id": 12
+    },
+    {
+      "CompanyName": "New Apna Comapny",
+      "CreatedBy": "Md Ohab",
+      "CompanyAddress": "New Address praya",
+      "Role": "IT_ADMIN",
+      "Status": "APPROVED",
+      "id": 13
+    },
+    {
+      "CompanyName": "New Comapny",
+      "CompanyAddress": "Hyderabad",
+      "CreatedBy": "Md Ohab",
+      "Role": "IT_USER_NORMAL",
+      "Status": "APPROVED",
+      "id": 14
+    },
+    {
+      "CompanyName": "Tech Company",
+      "CompanyAddress": "Delhi",
+      "CreatedBy": "user",
+      "Role": "IT_USER_NORMAL",
+      "Status": "UNAPPROVED",
+      "id": 15
+    },
+    {
+      "CompanyName": "Epam",
+      "CompanyAddress": "Gurgaon",
+      "CreatedBy": "user",
+      "Role": "IT_USER_NORMAL",
+      "Status": "APPROVED",
+      "id": 16
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
